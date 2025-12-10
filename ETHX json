@@ -1,0 +1,8 @@
+{
+  "name": "ETHX",
+  "symbol": "ETHX",
+  "address": "შენი_კონტრაქტის_მისამართი",
+  "chainId": 1,
+  "decimals": 18,
+  "logoURI": "https://i.imgur.com/abcdef.png"
+}
